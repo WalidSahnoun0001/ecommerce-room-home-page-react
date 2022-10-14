@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.04fb4b02.css",
-    "main.js": "/static/js/main.bd082771.js",
-    "static/js/787.40aae467.chunk.js": "/static/js/787.40aae467.chunk.js",
-    "static/media/desktop-image-hero-1.jpg": "/static/media/desktop-image-hero-1.91901d0d47ea68db9434.jpg",
-    "static/media/desktop-image-hero-3.jpg": "/static/media/desktop-image-hero-3.05fd679aa0d31e01c176.jpg",
-    "static/media/desktop-image-hero-2.jpg": "/static/media/desktop-image-hero-2.9d35405672f4fca67945.jpg",
-    "static/media/image-about-dark.jpg": "/static/media/image-about-dark.329bbc446c27ddf69d0f.jpg",
-    "static/media/logo.svg": "/static/media/logo.8fad054264a8e979d2bbe8ac73867178.svg",
-    "index.html": "/index.html",
-    "static/media/icon-close.svg": "/static/media/icon-close.3e88bd6e1dd859233d65f8222e8ccb74.svg",
-    "static/media/icon-arrow.svg": "/static/media/icon-arrow.84087786c5e572d7f27f2672642badd5.svg",
-    "static/media/icon-hamburger.svg": "/static/media/icon-hamburger.dc022bac537a273572af58dec556ed7e.svg",
-    "static/media/icon-angle-left.svg": "/static/media/icon-angle-left.d53877dfd9c6774a68749ad0239b4ce1.svg",
-    "static/media/icon-angle-right.svg": "/static/media/icon-angle-right.0ed3f81fbd14b3bd61d875b7df144e4c.svg",
-    "main.04fb4b02.css.map": "/static/css/main.04fb4b02.css.map",
-    "main.bd082771.js.map": "/static/js/main.bd082771.js.map",
-    "787.40aae467.chunk.js.map": "/static/js/787.40aae467.chunk.js.map"
+    "main.css": "/ecommerce-room-home-page-react/static/css/main.04fb4b02.css",
+    "main.js": "/ecommerce-room-home-page-react/static/js/main.e8ca4948.js",
+    "static/js/787.40aae467.chunk.js": "/ecommerce-room-home-page-react/static/js/787.40aae467.chunk.js",
+    "static/media/desktop-image-hero-1.jpg": "/ecommerce-room-home-page-react/static/media/desktop-image-hero-1.91901d0d47ea68db9434.jpg",
+    "static/media/desktop-image-hero-3.jpg": "/ecommerce-room-home-page-react/static/media/desktop-image-hero-3.05fd679aa0d31e01c176.jpg",
+    "static/media/desktop-image-hero-2.jpg": "/ecommerce-room-home-page-react/static/media/desktop-image-hero-2.9d35405672f4fca67945.jpg",
+    "static/media/image-about-dark.jpg": "/ecommerce-room-home-page-react/static/media/image-about-dark.329bbc446c27ddf69d0f.jpg",
+    "static/media/logo.svg": "/ecommerce-room-home-page-react/static/media/logo.8fad054264a8e979d2bbe8ac73867178.svg",
+    "index.html": "/ecommerce-room-home-page-react/index.html",
+    "static/media/icon-close.svg": "/ecommerce-room-home-page-react/static/media/icon-close.3e88bd6e1dd859233d65f8222e8ccb74.svg",
+    "static/media/icon-arrow.svg": "/ecommerce-room-home-page-react/static/media/icon-arrow.84087786c5e572d7f27f2672642badd5.svg",
+    "static/media/icon-hamburger.svg": "/ecommerce-room-home-page-react/static/media/icon-hamburger.dc022bac537a273572af58dec556ed7e.svg",
+    "static/media/icon-angle-left.svg": "/ecommerce-room-home-page-react/static/media/icon-angle-left.d53877dfd9c6774a68749ad0239b4ce1.svg",
+    "static/media/icon-angle-right.svg": "/ecommerce-room-home-page-react/static/media/icon-angle-right.0ed3f81fbd14b3bd61d875b7df144e4c.svg",
+    "main.04fb4b02.css.map": "/ecommerce-room-home-page-react/static/css/main.04fb4b02.css.map",
+    "main.e8ca4948.js.map": "/ecommerce-room-home-page-react/static/js/main.e8ca4948.js.map",
+    "787.40aae467.chunk.js.map": "/ecommerce-room-home-page-react/static/js/787.40aae467.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04fb4b02.css",
-    "static/js/main.bd082771.js"
+    "static/js/main.e8ca4948.js"
   ]
 }
